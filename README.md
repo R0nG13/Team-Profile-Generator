@@ -21,17 +21,24 @@ Use node to gather data and develop a webpage with the results.
   
 ## Installation:
 
-
+```
 npm i
+```
 
 ## Tests:
 
-
+```
 npm test
+```
+
+## Screen Shot
+
+<img src = "./Screen Shot 2020-10-11 at 11.10.21 PM.png"/>
+
 
 ## Video
 
-
+https://drive.google.com/file/d/1WtBfIUQdplv3MJgaWOb_nbFjRbOt7lDV/view
 
 
 ## Usage:
