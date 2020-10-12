@@ -9,7 +9,7 @@ const Manager = require("./lib/Manager");
 const Engineer = require("./lib/Engineer");
 const Intern = require("./lib/Intern");
 
-//html template to dynamically render the page
+//html template to dynmaically render the page
 const generatePage = require("./src/page-template");
 //importing write and copyfile functions to write the html template and apply the css
 const { writeFile, copyFile } = require("./generate-site");
